@@ -30,4 +30,5 @@ public class IntroLabTest {
      *       the test results.
      * As a reference, we've included testExampleStudent above.
      */
+    int y = 0;
 }
